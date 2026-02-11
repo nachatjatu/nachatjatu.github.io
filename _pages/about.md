@@ -27,8 +27,8 @@ latest_posts:
 
 # about me
 
-I am finishing up my M.S. in Management Science and Engineering (MS&E) at Stanford, where I also completed my B.S. in Computer Science in 2025.
+I am completing my *M.S. in Management Science and Engineering (MS&E)* at <span style="color: var(--global-theme-color)">Stanford<span>, where I also completed my *B.S. in Computer Science* in 2025.
 
-My research interests lie broadly in the decision sciences. I aim to study how people respond to incentives and uncertainty in socioeconomic systems. I am especially interested in using tools from optimization and game theory to understand these interactions in operations settings such as supply chains, transportation, and matching platforms.
+My research interests lie broadly in the decision sciences, where I hope to study how people respond to incentives and uncertainty in socioeconomic systems. I am inspired by ideas from <span style="color: var(--global-theme-color)">dynamic optimization<span>, <span style="color: var(--global-theme-color)">mechanism design<span>, and <span style="color: var(--global-theme-color)">machine learning<span>. I aim to use tools from these domains to understand such interactions in operations settings such as supply chains, transportation, and matching platforms.
 
 Some themes that excite me include sustainability, emerging economies, and public-private interfaces.
