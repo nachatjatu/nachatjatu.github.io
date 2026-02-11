@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: M.S. in Management Science and Engineering @ Stanford.
+subtitle: ณฉัตร จาตุศรีพิทักษ์
 
 profile:
   align: right
@@ -29,6 +29,6 @@ latest_posts:
 
 I am finishing up my M.S. in Management Science and Engineering (MS&E) at <span style="color: var(--global-theme-color)">Stanford<span>, where I also completed my B.S. in Computer Science in 2025.
 
-My research interests lie broadly in the decision sciences, where I hope to study how people respond to incentives and uncertainty in socioeconomic systems. I am inspired by ideas from <span style="color: var(--global-theme-color)">dynamic optimization<span>, <span style="color: var(--global-theme-color)">mechanism design<span>, and <span style="color: var(--global-theme-color)">machine learning<span>. I aim to use tools from these domains to understand such interactions in operations settings such as <span style="color: var(--global-theme-color)">supply chains<span>, <span style="color: var(--global-theme-color)">services<span>, and <span style="color: var(--global-theme-color)">matching platforms<span>.
+My research interests lie broadly in the decision sciences, where I hope to study how people respond to incentives and uncertainty in socioeconomic systems. I aim to understand these dynamics in operations settings such as <span style="color: var(--global-theme-color)">supply chains<span>, <span style="color: var(--global-theme-color)">services<span>, and <span style="color: var(--global-theme-color)">matching platforms<span>, drawing inspiration from <span style="color: var(--global-theme-color)">dynamic optimization<span>, <span style="color: var(--global-theme-color)">mechanism design<span>, and <span style="color: var(--global-theme-color)">machine learning<span>.
 
 Some themes that excite me include <span style="color: var(--global-theme-color)">sustainability<span>, <span style="color: var(--global-theme-color)">emerging economies<span>, and <span style="color: var(--global-theme-color)">public-private interfaces<span>.
