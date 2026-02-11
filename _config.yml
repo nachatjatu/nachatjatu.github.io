@@ -4,9 +4,9 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Nachat
-middle_name: 
+middle_name:
 last_name: Jatusripitak
-contact_note: 
+contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Nachat Jatusripitak | Optimization, Game Theory, & Responsible Operations at Stanford MS&E.
 footer_text: >
