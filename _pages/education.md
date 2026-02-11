@@ -6,37 +6,28 @@ nav: true
 nav_order: 2
 ---
 
-### M.S. Management Science and Engineering
+### Degrees
 
-**Stanford University** | 2025 – Present
+**M.S. Management Science and Engineering** <br>
+_Stanford University_ | 2025 – Present | GPA: 4.03/4.3
 
-- **GPA:** 4.03 / 4.3
-
-### B.S. Computer Science
-
-**Stanford University** | 2021 – 2025
-
-- _Awarded with Distinction_
-- **GPA:** 4.07 / 4.3
+**B.S. Computer Science** <br>
+_Stanford University, with Distinction_ | 2021 – 2025 | GPA: 4.07/4.3
 
 ---
 
-### relevant coursework
+### Relevant Coursework
 
-**Theory & Optimization**
+**Artificial Intelligence & Machine Learning**
+CS 224N: NLP with Deep Learning &middot; CS 205L: Math Methods for ML &middot; CS 238: Decision Making &middot; MS&E 228\*: Applied Causal Inference
 
-- **MS&E 311** Optimization | **MS&E 324** Stochastic Methods | **MS&E 325\*** Optimal Transport | **CS 161** Algorithms
+**Optimization & Operations Research**
+MS&E 311: Optimization &middot; MS&E 324: Stochastic Methods &middot; MS&E 325\*: Optimal Transport &middot; MS&E 235A: Markov Decision Processes
 
-**AI & Machine Learning**
-
-- **CS 224N** NLP (Deep Learning) | **CS 205L** Math for ML | **MS&E 228\*** Causal Inference | **CS 238** Decision Making
-
-**Economics & Decision Science**
-
-- **ECON 285** Matching & Market Design | **MS&E 235A** Markov Decision Processes | **CS 269I** Incentives in CS | **ECON 50/51** Economics
+**Economics & Algorithmic Theory**
+ECON 285: Market Design &middot; CS 269I: Incentives in CS &middot; ECON 50/51: Economic Analysis &middot; CS 161: Algorithms
 
 **Mathematics & Statistics**
+STATS 200: Theoretical Statistics &middot; MATH 171: Real Analysis &middot; MATH 113: Linear Algebra
 
-- **STATS 200** Theoretical Statistics | **MATH 171** Real Analysis | **MATH 113** Linear Algebra
-
-<small>\* In progress</small>
+<p style="font-size: 0.8em; margin-top: 20px;">* Courses in progress</p>
