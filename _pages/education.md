@@ -1,10 +1,11 @@
+---
 layout: page
 permalink: /education/
 title: education
 description: education
 nav: true
-nav_order: 1
-
+nav_order: 2
+---
 ### Education
 M.S. Management Science and Engineering. GPA: 4.03/4.3. 2025-present  
 B.S. Computer Science, with Distinction. GPA: 4.07/4.3. 2021-2025
