@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-# about me
+## about me
 
 I am finishing up my M.S. in Management Science and Engineering (MS&E) at <span style="color: var(--global-theme-color)">Stanford<span>, where I also completed my B.S. in Computer Science in 2025.
 
