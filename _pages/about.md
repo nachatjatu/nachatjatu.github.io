@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: M.S. in Management Science and Engineering @ <span style="color: var(--global-theme-color)">Stanford<span>.
+subtitle: M.S. in Management Science and Engineering @ Stanford.
 
 profile:
   align: right
