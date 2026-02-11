@@ -53,3 +53,18 @@ $back-to-top-width: $back-to-top-diameter;
 
 // Max width default
 $max-content-width: 930px !default;
+
+/* Custom accent for Stanford branding */
+.stanford-accent {
+  color: var(--global-theme-color);
+  font-weight: 600; /* Slightly bolder for visibility */
+  transition: all 0.3s ease;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+
+.stanford-accent:hover {
+  color: var(--global-hover-color);
+  border-bottom: 1px solid var(--global-theme-color);
+  cursor: default;
+}
