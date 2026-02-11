@@ -8,7 +8,7 @@ nav_order: 2
 M.S. Management Science and Engineering. GPA: 4.03/4.3. 2025-present  
 B.S. Computer Science, with Distinction. GPA: 4.07/4.3. 2021-2025
 
-### Relevant Coursework
+### relevant coursework
 - CS 161 - Design and Analysis of Algorithms
 - CS 205L - Cont. Mathematical Methods for ML
 - CS 224N - NLP with Deep Learning
