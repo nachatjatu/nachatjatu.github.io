@@ -6,7 +6,7 @@ nav: true
 nav_order: 2
 ---
 
-### education
+### degrees
 
 **Ph.D. Operations, Information and Technology** <br>
 _Stanford Graduate School of Business_ | Sept 2026 (*start*) -
