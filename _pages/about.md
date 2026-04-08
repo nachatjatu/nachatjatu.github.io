@@ -27,7 +27,7 @@ latest_posts:
 
 ## about me
 
-I am finishing up my M.S. in Management Science and Engineering (MS&E) at <span class="stanford-accent">Stanford</span>, where I also completed my B.S. in Computer Science in 2025.
+I am finishing up my M.S. in Management Science and Engineering (MS&E) at <span class="stanford-accent">Stanford</span>, where I also completed my B.S. in Computer Science in 2025. I will be joining the **Operations, Information and Technology** group at the <span class="stanford-accent">Stanford Graduate School of Business<span> as a PhD student in Fall 2026.
 
 My research interests lie broadly in the **decision sciences**, particularly in how people respond to incentives and uncertainty in socioeconomic systems. I aim to study these dynamics in operations settings such as **supply chains**, **services**, and **matching platforms**, drawing inspiration from areas such as _dynamic optimization_, _mechanism design_, and _machine learning_.
 
