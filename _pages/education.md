@@ -25,7 +25,7 @@ _Stanford University, with Distinction_ | 2021 – 2025 | GPA: 4.07/4.3
 ### relevant coursework
 
 **mathematics & statistics**  
-MATH 113: Linear Algebra | MATH 171: Real Analysis | MS&E 324: Stochastic Methods | STATS 200: Theoretical Statistics
+MATH 113: Linear Algebra | MATH 171: Real Analysis | STATS 200: Theoretical Statistics
 
 **artificial intelligence & machine learning**  
 CS 205L: Cont. Math Methods (ML) | CS 238: Decision Making Under Uncertainty | MS&E 338: Aligning Superintelligence

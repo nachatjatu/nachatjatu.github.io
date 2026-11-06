@@ -27,8 +27,13 @@ latest_posts:
 
 ## about me
 
-I am completing my M.S. in Management Science and Engineering (MS&E) at <span class="stanford-accent">Stanford University</span>, where I also completed my B.S. in Computer Science in 2025. I will be joining the Operations, Information and Technology (OIT) group at the <span class="stanford-accent">Stanford Graduate School of Business</span> as a PhD student in Fall 2026.
+I am a first-year PhD student in the Operations, Information and Technology (OIT) group <span class="stanford-accent">Stanford Graduate School of Business</span>. Previously, I completed my M.S. 
+in Management Science and Engineering (MS&E) and B.S. in Computer Science at 
+<span class="stanford-accent">Stanford University</span>.
 
-My research interests lie broadly in the **decision sciences**, particularly in how people respond to incentives and uncertainty in socioeconomic systems. I aim to study these dynamics in operations settings such as **supply chains**, **services**, and **matching platforms**, drawing inspiration from areas such as _dynamic optimization_, _mechanism design_, and _machine learning_.
+My research interests lie broadly in operations management. I am interested in studying the
+intersection of **operations** with the three pillars of **sustainability**: **the environment**,
+**society**, and **the economy**. I wish for my work to improve our understanding of how to 
+care for these pillars more effectively, so that we can uplift the collective human condition.
 
-Some themes that excite me include <span class="stanford-accent">sustainability</span>, <span class="stanford-accent">emerging economies</span>, and <span class="stanford-accent">public-private interfaces</span>.
+Thank you for visiting my website. I am always excited to discuss my ideas, so please reach out.
