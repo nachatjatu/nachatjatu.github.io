@@ -34,8 +34,8 @@ in Management Science and Engineering (MS&E) and B.S. in Computer Science at
 My research interests lie broadly in <span class="stanford-accent">operations management</span>. 
 I wish for my work to improve livelihoods and reduce inequality in developing economies, 
 using tools from **operations research** to align these goals with all three pillars of 
-**sustainability**: the **environment**, **society**, and the **economy**. My goal is to develop
-Pareto-improving interventions to pertinent issues such as _pollution_, _electoral politics_, and 
+**sustainability**: the **environment**, **society**, and the **economy**. My goal is to develop 
+operations-centric solutions to pertinent issues such as _pollution_, _electoral politics_, and 
 _household debt_. 
 
 Thank you for visiting my website. I am always excited to discuss my ideas, so please reach out.
