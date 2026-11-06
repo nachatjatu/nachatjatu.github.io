@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: ณฉัตร จาตุศรีพิทักษ์
+subtitle: ณฉัตร (คลัง) จาตุศรีพิทักษ์
 
 profile:
   align: right
