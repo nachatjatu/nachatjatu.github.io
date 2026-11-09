@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-music",
           title: "music",
-          description: "the albums I keep coming back to, and what I&#39;ve been listening to lately.",
+          description: "some of my favorite songs, artists, and albums :)",
           section: "Navigation",
           handler: () => {
             window.location.href = "/music/";
