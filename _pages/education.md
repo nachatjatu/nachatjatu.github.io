@@ -34,7 +34,7 @@ STATS 200: Theoretical Statistics | OIT 614: Foundations of Stochastic Modeling\
 CS 205L: Cont. Math Methods (ML) | CS 238: Decision Making Under Uncertainty | MS&E 338: Aligning Superintelligence
 
 **optimization & operations research**  
-MS&E 311: Optimization |  MS&E 325: Optimal Transport
+MS&E 311: Optimization | MS&E 325: Optimal Transport
 
 **economics & market design**  
 CS 269I: Incentives in CS | ECON 50/51: Economic Analysis | ECON 285: Market Design
