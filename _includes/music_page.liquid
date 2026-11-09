@@ -1,0 +1,9 @@
+{% assign music = site.data.music %}
+{% include spotify_section.liquid items=music.albums title="albums I love" layout="grid" %}
+{% include spotify_section.liquid items=music.recent title="recent listens" layout="list" %}
+
+{% assign album_count = music.albums | where_exp: 'item', 'item.url' | size %}
+{% assign recent_count = music.recent | where_exp: 'item', 'item.url' | size %}
+{% if album_count == 0 and recent_count == 0 %}
+  <p class="music-empty">Coming soon.</p>
+{% endif %}

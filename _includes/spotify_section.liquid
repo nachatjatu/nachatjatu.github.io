@@ -1,0 +1,39 @@
+{% comment %}
+  Renders one section of the music page from a list in _data/music.yml.
+  Params: items (list of {url, note}), title, layout ('grid' or 'list').
+  Share links like https://open.spotify.com/intl-en/album/ID?si=... become
+  embed URLs like https://open.spotify.com/embed/album/ID.
+{% endcomment %}
+{% assign entries = include.items | where_exp: 'item', 'item.url' %}
+{% if entries.size > 0 %}
+  <section class="music-section">
+    <h2>{{ include.title }}</h2>
+    <div class="{% if include.layout == 'grid' %}music-grid{% else %}music-list{% endif %}">
+      {% for item in entries %}
+        {% assign path = item.url | split: 'open.spotify.com/' | last | split: '?' | first %}
+        {% if path contains 'intl-' %}
+          {% assign path = path | split: '/' | shift | join: '/' %}
+        {% endif %}
+        {% if include.layout == 'grid' %}
+          {% assign height = 352 %}
+        {% elsif path contains 'track/' or path contains 'episode/' %}
+          {% assign height = 80 %}
+        {% else %}
+          {% assign height = 152 %}
+        {% endif %}
+        <div class="music-card">
+          <iframe
+            src="https://open.spotify.com/embed/{{ path }}?utm_source=generator"
+            height="{{ height }}"
+            loading="lazy"
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+            title="{{ include.title }} {{ forloop.index }}"
+          ></iframe>
+          {% if item.note %}
+            <p class="music-note">{{ item.note }}</p>
+          {% endif %}
+        </div>
+      {% endfor %}
+    </div>
+  </section>
+{% endif %}

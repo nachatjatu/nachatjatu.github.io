@@ -1,0 +1,28 @@
+# Music page content (rendered at /music/).
+#
+# How to add something:
+#   1. In Spotify, click "..." on an album or song → Share → Copy link
+#   2. Paste it as `url:` below (the full link is fine, including ?si=...)
+#
+# A section only shows up on the page once it has at least one entry.
+
+# Albums you love, shown as a grid. `note` is a short line in your own words.
+albums:
+  - url: https://open.spotify.com/album/5JCuiPbX9OrBLWhqK4qGJZ?si=46921965dab646b4
+  - url: https://open.spotify.com/album/7a35UzxXYuKQGMGImyB0Un?si=8UgByJBGRZqiy2DdQW4pKw
+  - url: https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h?si=eOR_1DZuT9qkzkR26aMA4Q
+  - url: https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9?si=-1JpttXjTIKDE8_MLg0yyw
+  - url: https://open.spotify.com/album/56MqewtCUq5bplrqEYTVL0?si=rn7zV2nxTsyKQ00SjXKZhg
+
+# Songs or albums you've listened to lately, shown as a compact list.
+# `note` is optional here too.
+recent:
+  - url: https://open.spotify.com/track/1H4idkmruFoJBg1DvUv2tY?si=27fc5303822d4d40
+  - url: https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ?si=f312e434f6c341d9
+  - url: https://open.spotify.com/track/3x4378ztiLvFmm2nuzEI0C?si=fa9ef50df70b467b
+  - url: https://open.spotify.com/track/6qI8FF9qIR16yAfQOFp3HX?si=af26c8b5004e4f7b
+  - url: https://open.spotify.com/track/7aEkdglehg6S9Adce6imQ1?si=eeb9a2f0bcc84465
+
+
+  # - url: https://open.spotify.com/track/XXXXXXXXXXXXXXXXXXXXXX
+  # - url: https://open.spotify.com/album/XXXXXXXXXXXXXXXXXXXXXX

@@ -1,0 +1,23 @@
+---
+layout: none
+title: cv
+permalink: /cv/
+nav: true
+nav_order: 4
+sitemap: false
+---
+
+{% assign cv_url = '/assets/pdf/nachat_cv.pdf' | relative_url %}
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>CV | Nachat Jatusripitak</title>
+    <meta http-equiv="refresh" content="0; url={{ cv_url }}" />
+    <link rel="canonical" href="{{ cv_url | absolute_url }}" />
+  </head>
+  <body>
+    <p>Redirecting to <a href="{{ cv_url }}">my CV (PDF)</a>…</p>
+  </body>
+</html>

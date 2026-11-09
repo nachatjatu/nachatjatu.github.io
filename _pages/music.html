@@ -1,0 +1,18 @@
+---
+layout: page
+title: music
+permalink: /music/
+description: the albums I keep coming back to, and what I've been listening to lately.
+nav: true
+nav_order: 3
+_styles: >
+  .music-section { margin-bottom: 2.5rem; }
+  .music-section h2 { font-size: 1.25rem; margin-bottom: 1rem; }
+  .music-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 1.25rem; }
+  .music-list { display: grid; gap: 0.5rem; }
+  .music-card iframe { width: 100%; border: 0; border-radius: 12px; display: block; }
+  .music-note { font-size: 0.9rem; font-style: italic; color: var(--global-text-color-light); margin: 0.5rem 0.25rem 0; }
+  .music-empty { color: var(--global-text-color-light); }
+---
+
+{% include music_page.liquid %}

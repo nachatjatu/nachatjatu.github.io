@@ -10,7 +10,7 @@ nav_order: 2
 
 **Ph.D. Business Administration** <br>
 Operations, Information and Technology <br>
-_Stanford Graduate School of Business_ | 2026 - 2031 (*expected*)
+_Stanford Graduate School of Business_ | 2026 - 2031 (_expected_)
 
 **M.S. Management Science and Engineering** <br>
 Data and Decisions <br>
@@ -24,14 +24,17 @@ _Stanford University, with Distinction_ | 2021 – 2025 | GPA: 4.07/4.3
 
 ### relevant coursework
 
-**mathematics & statistics**  
-MATH 113: Linear Algebra | MATH 171: Real Analysis | STATS 200: Theoretical Statistics
+**mathematics**
+MATH 113: Linear Algebra | MATH 171: Real Analysis
+
+**probability and statistics**
+STATS 200: Theoretical Statistics | OIT 614: Foundations of Stochastic Modeling\*
 
 **artificial intelligence & machine learning**  
 CS 205L: Cont. Math Methods (ML) | CS 238: Decision Making Under Uncertainty | MS&E 338: Aligning Superintelligence
 
 **optimization & operations research**  
-MS&E 311: Optimization | OIT 614: Foundations of Stochastic Modeling* | MS&E 325: Optimal Transport
+MS&E 311: Optimization |  MS&E 325: Optimal Transport
 
 **economics & market design**  
 CS 269I: Incentives in CS | ECON 50/51: Economic Analysis | ECON 285: Market Design
