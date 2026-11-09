@@ -29,6 +29,6 @@ latest_posts:
 
 I am a first-year PhD student in the Operations, Information and Technology (OIT) group at the <span class="stanford-accent">Stanford Graduate School of Business</span>. Previously, I completed my M.S. in Management Science and Engineering (MS&E) and B.S. in Computer Science at <span class="stanford-accent">Stanford University</span>.
 
-My research interests lie broadly in <span class="stanford-accent">operations management</span>. I wish for my work to improve livelihoods and reduce inequality in developing economies, using tools from **operations research** to align these goals with all three pillars of **sustainability**: the **environment**, **society**, and the **economy**. My goal is to develop operations-centric solutions to pertinent issues such as _pollution_, _electoral politics_, and _household debt_.
+I am interested in how tools from **operations management** can address socioeconomic issues in developing economies. For example, how can **optimization** make operational processes _more efficient_ under adverse conditions? How can **microeconomic modeling** help us design incentive programs that people _actually_ want to participate in? And how can **resource allocation** improve access to government services _under uncertainty_? I believe that **operations** can help us support the three pillars of **sustainability**: the **environment**, **society**, and the **economy**.
 
 Thank you for visiting my website. I am always excited to discuss my ideas, so please reach out.

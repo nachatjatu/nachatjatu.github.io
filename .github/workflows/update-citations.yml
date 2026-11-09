@@ -1,10 +1,12 @@
 name: Update Google Scholar Citations
 
 on:
-  schedule:
-    - cron: "0 0 * * 1" # Monday
-    - cron: "0 0 * * 3" # Wednesday
-    - cron: "0 0 * * 5" # Friday
+  # Scheduled runs disabled until a Google Scholar ID is added to _data/socials.yml.
+  # To re-enable, uncomment the schedule below.
+  # schedule:
+  #   - cron: "0 0 * * 1" # Monday
+  #   - cron: "0 0 * * 3" # Wednesday
+  #   - cron: "0 0 * * 5" # Friday
   workflow_dispatch:
 
 jobs:

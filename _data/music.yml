@@ -2,26 +2,35 @@
 #
 # How to add something:
 #   1. In Spotify, click "..." on an album or song → Share → Copy link
-#   2. Paste it as `url:` below (the full link is fine, including ?si=...)
+#   2. Paste it as `url:` below (the full link is fine; ?si=... tracking codes can be deleted)
 #
 # A section only shows up on the page once it has at least one entry.
 
 # Albums you love, shown as a grid. `note` is a short line in your own words.
 albums:
-  - url: https://open.spotify.com/album/5JCuiPbX9OrBLWhqK4qGJZ?si=46921965dab646b4
-  - url: https://open.spotify.com/album/7a35UzxXYuKQGMGImyB0Un?si=8UgByJBGRZqiy2DdQW4pKw
-  - url: https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h?si=eOR_1DZuT9qkzkR26aMA4Q
-  - url: https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9?si=-1JpttXjTIKDE8_MLg0yyw
-  - url: https://open.spotify.com/album/56MqewtCUq5bplrqEYTVL0?si=rn7zV2nxTsyKQ00SjXKZhg
+  - url: https://open.spotify.com/album/703iWzddbLPDDRb1dOrd66
+  - url: https://open.spotify.com/album/7a35UzxXYuKQGMGImyB0Un
+  - url: https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h
+  - url: https://open.spotify.com/album/56MqewtCUq5bplrqEYTVL0
+  - url: https://open.spotify.com/album/3uKLwDjku2Us0c81LEmftR
+  - url: https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ
+
+# Artists you love, shown as a grid of compact players (artist + top tracks).
+# In Spotify, open the artist page → "..." → Share → Copy link to artist.
+artists:
+  - url: https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0 # CASIOPEA
+  - url: https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU # IU
+  - url: https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO # Laufey
+  - url: https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi # Fujii Kaze
+  - url: https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc # Madeon
+  - url: https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR # Eminem
 
 # Songs or albums you've listened to lately, shown as a compact list.
 # `note` is optional here too.
 recent:
-  - url: https://open.spotify.com/track/1H4idkmruFoJBg1DvUv2tY?si=27fc5303822d4d40
-  - url: https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ?si=f312e434f6c341d9
-  - url: https://open.spotify.com/track/3x4378ztiLvFmm2nuzEI0C?si=fa9ef50df70b467b
-  - url: https://open.spotify.com/track/6qI8FF9qIR16yAfQOFp3HX?si=af26c8b5004e4f7b
-  - url: https://open.spotify.com/track/7aEkdglehg6S9Adce6imQ1?si=eeb9a2f0bcc84465
-
-  # - url: https://open.spotify.com/track/XXXXXXXXXXXXXXXXXXXXXX
-  # - url: https://open.spotify.com/album/XXXXXXXXXXXXXXXXXXXXXX
+  - url: https://open.spotify.com/track/21ogc36Tn5Hy6gpgWmueJC
+  - url: https://open.spotify.com/track/6VXAy172dRoR4S0tn8HhdZ
+  - url: https://open.spotify.com/track/5JG2UkenJbKghnQiX4b22m
+  - url: https://open.spotify.com/track/5hXJ02Jt8ARGXTbhdJhQmY
+  - url: https://open.spotify.com/track/7aEkdglehg6S9Adce6imQ1
+  - url: https://open.spotify.com/track/1PAQp3aSmKpUdFhRvYGyLZ

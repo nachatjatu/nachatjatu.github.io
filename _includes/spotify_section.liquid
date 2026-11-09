@@ -1,6 +1,7 @@
 {% comment %}
   Renders one section of the music page from a list in _data/music.yml.
-  Params: items (list of {url, note}), title, layout ('grid' or 'list').
+  Params: items (list of {url, note}), title,
+  layout ('grid' = large players, 'compact-grid' = small players in a grid, 'list').
   Share links like https://open.spotify.com/intl-en/album/ID?si=... become
   embed URLs like https://open.spotify.com/embed/album/ID.
 {% endcomment %}
@@ -8,7 +9,7 @@
 {% if entries.size > 0 %}
   <section class="music-section">
     <h2>{{ include.title }}</h2>
-    <div class="{% if include.layout == 'grid' %}music-grid{% else %}music-list{% endif %}">
+    <div class="{% if include.layout contains 'grid' %}music-grid{% else %}music-list{% endif %}">
       {% for item in entries %}
         {% assign path = item.url | split: 'open.spotify.com/' | last | split: '?' | first %}
         {% if path contains 'intl-' %}
